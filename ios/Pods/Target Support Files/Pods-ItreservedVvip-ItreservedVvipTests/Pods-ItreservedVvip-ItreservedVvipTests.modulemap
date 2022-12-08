@@ -1,0 +1,6 @@
+module Pods_ItreservedVvip_ItreservedVvipTests {
+  umbrella header "Pods-ItreservedVvip-ItreservedVvipTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

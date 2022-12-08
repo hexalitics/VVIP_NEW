@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ItreservedVvip.iml" filepath="$PROJECT_DIR$/.idea/modules/ItreservedVvip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ItreservedVvip.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ItreservedVvip.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1995259644/ItreservedVvip.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-1995259644/ItreservedVvip.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-643324150/ItreservedVvip.react-native-community_checkbox.iml" filepath="$PROJECT_DIR$/.idea/modules/-643324150/ItreservedVvip.react-native-community_checkbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1388237585/ItreservedVvip.react-native-community_clipboard.iml" filepath="$PROJECT_DIR$/.idea/modules/-1388237585/ItreservedVvip.react-native-community_clipboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1280280902/ItreservedVvip.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/-1280280902/ItreservedVvip.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1780926993/ItreservedVvip.react-native-firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/-1780926993/ItreservedVvip.react-native-firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1166257699/ItreservedVvip.react-native-firebase_messaging.iml" filepath="$PROJECT_DIR$/.idea/modules/-1166257699/ItreservedVvip.react-native-firebase_messaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/109827607/ItreservedVvip.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/109827607/ItreservedVvip.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/665953134/ItreservedVvip.react-native-picker_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/665953134/ItreservedVvip.react-native-picker_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/305337765/ItreservedVvip.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/305337765/ItreservedVvip.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1178483520/ItreservedVvip.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1178483520/ItreservedVvip.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1664609064/ItreservedVvip.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1664609064/ItreservedVvip.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/533570083/ItreservedVvip.react-native-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/533570083/ItreservedVvip.react-native-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-230895329/ItreservedVvip.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-230895329/ItreservedVvip.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1163387775/ItreservedVvip.rn-android-keyboard-adjust.iml" filepath="$PROJECT_DIR$/.idea/modules/1163387775/ItreservedVvip.rn-android-keyboard-adjust.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/319120042/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/319120042/react-native-gradle-plugin.iml" />
+    </modules>
+  </component>
+</project>

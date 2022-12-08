@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1053229017738-k5330d9n594ok23j5l7fs4g56g7oqiqi.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1053229017738</string>
+    <string name="google_api_key" translatable="false">AIzaSyAZFFPciYxMFC3e0ojbGsTnw1huKbPLrdI</string>
+    <string name="google_app_id" translatable="false">1:1053229017738:android:759e8d03750a67a1f39b73</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAZFFPciYxMFC3e0ojbGsTnw1huKbPLrdI</string>
+    <string name="google_storage_bucket" translatable="false">vvip-pass.appspot.com</string>
+    <string name="project_id" translatable="false">vvip-pass</string>
+</resources>

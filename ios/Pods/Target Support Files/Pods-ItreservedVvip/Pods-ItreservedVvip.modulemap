@@ -1,0 +1,6 @@
+module Pods_ItreservedVvip {
+  umbrella header "Pods-ItreservedVvip-umbrella.h"
+
+  export *
+  module * { export * }
+}
